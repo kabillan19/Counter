@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  size: 5em;
+}
+#Counter {
+  text-align: center;
+  display: block;
+  font-size: 15em;
+  font-family: Helvetica, sans-serif;
+  color: hsl(0, 0%, 100%);
+}
+#button {
+  text-align: center;
+  justify-content: space-between;
+}
+
+.buttons {
+  color: white;
+  background-color: hsl(27, 100%, 50%);
+  border-radius: 10px;
+  width: 300px;
+  height: auto;
+  font-size: 3em;
+  border: none;
+}
